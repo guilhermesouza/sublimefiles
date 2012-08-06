@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1344264101,
+	"auto_upgrade_last_run": 1344278742,
 	"installed_packages":
 	[
 		"Color Scheme - Frontend Delight",
@@ -12,7 +12,6 @@
 		"Live CSS",
 		"Package Control",
 		"SublimeLinter",
-		"SublimePomodoro",
 		"SublimeRope",
 		"SublimeTODO",
 		"Theme - Soda",
