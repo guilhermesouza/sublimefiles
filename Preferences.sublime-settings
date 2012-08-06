@@ -3,7 +3,7 @@
 	"auto_indent": true,
 	"auto_match_enabled": false,
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/User/Wombat.tmTheme",
+	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
 	"draw_minimap_border": true,
 	"file_exclude_patterns":
 	[
@@ -29,7 +29,6 @@
 		"*.swp",
 		"*.swo"
 	],
-
 	"folder_exclude_patterns":
 	[
 		".svn",
