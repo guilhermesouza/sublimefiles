@@ -1,0 +1,70 @@
+{
+	"auto_complete": false,
+	"auto_indent": true,
+	"auto_match_enabled": false,
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/User/Wombat.tmTheme",
+	"draw_minimap_border": true,
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.pdf",
+		"*.class",
+		".*",
+		"*.swp",
+		"*.swo"
+	],
+
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".*",
+		"build",
+		"_build",
+		".swp",
+		"*.egg-info"
+	],
+	"font_face": "Monaco",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 10,
+	"gutter": true,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_subsequent_lines": true,
+	"match_brackets_content": false,
+	"open_files_in_new_window": false,
+	"soda_classic_tabs": true,
+	"tab_completion": true,
+	"tab_size": 4,
+	"theme": "Soda Light.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"use_simple_full_screen": true,
+	"use_tab_stops": true,
+	"vintage_start_in_command_mode": true,
+	"word_wrap": false
+}
